@@ -412,7 +412,7 @@ public class project3 {
 		frame.getContentPane().add(panel_1);
 		panel_1.setLayout(null);
 		
-		JButton btnNewButton = new JButton("Comfirm");
+		JButton btnNewButton = new JButton("Confirm");
 		btnNewButton.setBackground(Color.LIGHT_GRAY);
 		btnNewButton.setFont(new Font("Tahoma", Font.BOLD, 18));
 		btnNewButton.addActionListener(new ActionListener() {
